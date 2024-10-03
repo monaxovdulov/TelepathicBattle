@@ -1,1 +1,8 @@
 .vscode
+
+# Игнорируем node_modules
+node_modules/
+
+# Игнорируем временные файлы
+.DS_Store
+*.log
